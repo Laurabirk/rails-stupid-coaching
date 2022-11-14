@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+ .border-grey{
+  border-left: 3px solid grey;
+  font-size: 16px;
+  padding-left: 15px;
+ }
+.first-question{
+  font-size: 20px;
+}
+#background-yellow{
+  background-color: rgb(255, 255, 173);
+  color: black;
+}
+#size-small{
+  font-size: 16px;
+  text-decoration: none;
+}
